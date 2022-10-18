@@ -1,33 +1,33 @@
 .tt-i-black {
-    font-family: 'tt_i_black';
+    font-family: tt_i_black;
 }
 
 .tt-i-bold {
-    font-family: 'tt_i_bold';
+    font-family: tt_i_bold;
 }
 
 .tt-i-md {
-    font-family: 'tt_i_medium';
+    font-family: tt_i_medium;
 }
 
 .tt-i-reg {
-    font-family: 'tt_i_regular';
+    font-family: tt_i_regular;
 }
 
 .fw_black {
-    font-family: 'tt_i_black' !important;
+    font-family: tt_i_black !important;
 }
 
 .fw_bold {
-    font-family: 'tt_i_bold' !important;
+    font-family: tt_i_bold !important;
 }
 
 .fw_semibold {
-    font-family: 'tt_i_medium' !important;
+    font-family: tt_i_medium !important;
 }
 
 .fw_normal {
-    font-family: 'tt_i_regular' !important;
+    font-family: tt_i_regular !important;
 }
 
 .btn-dangered {
